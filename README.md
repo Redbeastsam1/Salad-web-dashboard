@@ -1,4 +1,4 @@
-<img width="2124" height="358" alt="image" src="https://github.com/user-attachments/assets/5fe6a7eb-8a21-47eb-a1d5-ed88bda990b0" /># 🥗 Salad Metrics Dashboard
+# 🥗 Salad Metrics Dashboard
 
 Ever wanted to know exactly what your Salad app is doing behind the scenes?
 
