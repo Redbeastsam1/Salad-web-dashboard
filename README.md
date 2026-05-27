@@ -1,4 +1,4 @@
-# 🥗 Salad Metrics Dashboard
+<img width="2124" height="358" alt="image" src="https://github.com/user-attachments/assets/5fe6a7eb-8a21-47eb-a1d5-ed88bda990b0" /># 🥗 Salad Metrics Dashboard
 
 Ever wanted to know exactly what your Salad app is doing behind the scenes?
 
@@ -18,8 +18,9 @@ Modern UI: A clean, responsive design built with Bootstrap 5, complete with a bu
 # Prerequisites
 You'll need Python installed on your machine to run the backend server. You will also need to install a few standard Python libraries to handle the web server and data sanitization:
 
-Bash
+``` bash
 pip install flask flask-cors bleach
+```
  Getting Started
 Clone this repository or download server.py and index.html to the same folder on your machine.
 
@@ -27,8 +28,9 @@ Open your terminal or command prompt in that directory.
 
 Start the server by running the following command (replace "YourMachineName" with whatever you want to call your rig):
 
-Bash
+``` bash
 python server.py -machine_name "YourMachineName"
+```
 (Note: The server defaults to port 8000, but you can specify a custom port by adding -port 8080).
 
 Open your web browser and navigate to http://localhost:8000.
