@@ -1,5 +1,5 @@
-# Salad-web-dashboard
-🥗 Salad Metrics Dashboard
+# 🥗 Salad Metrics Dashboard
+
 Ever wanted to know exactly what your Salad app is doing behind the scenes?
 
 This is a lightweight, local web dashboard that parses your Salad logs to give you real-time insights into your machine's compute and bandwidth sharing performance. Instead of digging through raw text files, this tool visualizes your wallet balance, container earnings, and bandwidth usage in clean, interactive charts.
